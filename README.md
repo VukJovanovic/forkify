@@ -4,5 +4,8 @@
 
 Check it live [here](https://vukjovanovic.github.io/forkify/)
 
+### - Technologies used to build this project:
+   HTML AND CSS
+
 
 
