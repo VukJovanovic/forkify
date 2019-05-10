@@ -5,7 +5,11 @@
 Check it live [here](https://vukjovanovic.github.io/forkify/)
 
 ### - Technologies used to build this project:
-   HTML AND CSS
+1. HTML
+2. CSS
+3. Vanilla javascript
+4. Webpack
+5. Babel
 
 
 
